@@ -5,6 +5,10 @@ const sayHi = function() {
 };
 
 // 👇🏻 Invoca la función aquí
+const sayHi = function () {
+  console.log('Hi!');
+}
+function();
 
 // 👆🏻
 
