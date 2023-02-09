@@ -11,3 +11,16 @@ const x2Comparation = false;
 // 👆🏻
 
 console.log(x1Comparation, x2Comparation);
+
+const platanos = 2;
+const fresas = 7;
+
+const sum = platanos + fresas;
+console.log(sum);
+
+const mayor = false;
+const menor = true;
+
+console.log (mayor, menor);
+
+// Algo confusa me he quedado con lo que tengo que hacer pero lo he intentado 
